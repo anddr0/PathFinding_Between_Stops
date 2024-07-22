@@ -3,6 +3,10 @@
 ## Introduction
 In this repository, we discuss two key algorithms in the field of pathfinding in graphs: Dijkstra's algorithm and A* (A-star) algorithm. Both these algorithms are widely used in various computer science domains, including robotics, artificial intelligence, and computer games, among others. Their applications include finding the shortest path between two points (nodes) in a graph, which can serve multiple purposes across various domains and applications, from gaming to logistics.
 
+![image](https://github.com/user-attachments/assets/d1aa3343-b039-48cc-b3be-ef818a1c4da3)
+![image](https://github.com/user-attachments/assets/1c029a6c-df88-4a4f-83b5-e72dea901267)
+![image](https://github.com/user-attachments/assets/70900f9d-6f3d-4e73-ab47-bfa60c408a7a)
+
 ### Algorithms:
 - **Dijkstra's Algorithm**: Dijkstra's algorithm finds the shortest paths from a selected vertex to all other vertices in a weighted graph, where edge weights represent the cost of transitioning between them.
 - **A* Algorithm**: A* algorithm utilizes a similar approach but with an additional heuristic, allowing for more efficient graph traversal by considering the estimated distance to the goal.
